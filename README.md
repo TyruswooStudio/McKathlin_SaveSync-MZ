@@ -6,7 +6,7 @@ if global info is missing.
 Sometimes when Steam Cloud updates people's save files, or when a
 player pastes in a savefile from a backup, the save files actually present
 in their game may fall out of sync with the list in global.rpgsave that
-RPG Maker MV's runtime uses to populate the Load Menu. This can leave the
+RPG Maker MZ's runtime uses to populate the Load Menu. This can leave the
 player unable to access their existing saves.
 
 When this Save Sync plugin is active, it resolves any inconsistencies
